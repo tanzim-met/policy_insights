@@ -1,2 +1,2 @@
-# policy_insights
+# Policy Insights
 Magazine Website
